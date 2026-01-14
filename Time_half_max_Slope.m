@@ -1,5 +1,5 @@
 %% Section 1: Read in data
-rawdata_dir = 'YOURFILEPATH.csv';
+rawdata_dir = 'SAMPLEDATA.csv';
 rawdata = readmatrix(rawdata_dir);
 time = rawdata(:,1);
 rawdata = rawdata(:,2:end);
