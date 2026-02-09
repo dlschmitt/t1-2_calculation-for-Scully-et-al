@@ -52,7 +52,7 @@ The program has been tested using the following operating systems:
   - half_values: The calculated target $y$-value (midpoint) used for interpolation.
   - two_point_indices: The indices of the two data points flanking the half-value.
 
-##License
+**License**
 Copyright (c) [2026] [Michael J Sun and Danielle L Schmitt]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
